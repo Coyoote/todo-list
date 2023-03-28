@@ -1,7 +1,7 @@
 
 # Todo-list
 - Click [Here](https://Coyoote.github.io/todo-list/) to see demo link page
-- Technologies: HTML, SASS(SCSS), JavaScript, TypeScript, React.js, API
+- Technologies: HTML, SASS(SCSS), JavaScript, TypeScript, React.js, RESTful API
 
 ## Installing 
   1. **Fork** and **Clone** this repository
