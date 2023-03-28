@@ -1,4 +1,17 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://Coyoote.github.io/todo-list/)
+
+# Todo-list
+- Click [Here](https://Coyoote.github.io/todo-list/) to see demo link page
+- Technologies: HTML, SASS(SCSS), JavaScript, TypeScript, React.js, API
+
+## Installing 
+  1. **Fork** and **Clone** this repository
+  3. Run `npm install` (or just `npm i`) in your terminal
+  4. Run `npm start`
+
+## What can you do?
+- Add a todo
+- Delete a todo
+- Change the title of a selected todo (double-click on todo's title)
+- Change status of todo to completed or active
+- Clear all completed todos
+- Filter todos by status
